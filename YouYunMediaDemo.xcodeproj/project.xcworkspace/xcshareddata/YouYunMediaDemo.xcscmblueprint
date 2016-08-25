@@ -1,0 +1,121 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "154ED831FD223551E98749E16BECA0A36EBFF420+++0887603",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0D7533C70B3E77874DB4DC9E2131A9B1895C2C86+++6422887" : 0,
+    "A01FEA133664C266A47C23F748113C9F7D7ACE2A+++933CDE3" : 0,
+    "536159E03202CAC32AA66D090EBAC9005BD9A04E+++79BDB94" : 0,
+    "BEAFF94FB8B132746218097E546D09F588D2B482+++BFACEA3" : 0,
+    "3528F7EB3CD1CA71730028012BED81F82E2BB93F+++8FA7E54" : 0,
+    "B9A509D4F3D25560F565CB53A09A75E2140C5232+++94CAD71" : 0,
+    "B9A509D4F3D25560F565CB53A09A75E2140C5232+++94E36AF" : 0,
+    "375ED685F58CC5279B82679931A2D9D538CEED97+++782B0EB" : 0,
+    "7642276EBD3EA2515BE6EF8B180060014C6C03AF+++B68AFB2" : 0,
+    "B9A509D4F3D25560F565CB53A09A75E2140C5232+++9285DFF" : 0,
+    "375ED685F58CC5279B82679931A2D9D538CEED97+++82DDE49" : 0,
+    "5077C32A17CE47BB31C1D6C5E715A5F823D670CD+++F47F2F4" : 0,
+    "154ED831FD223551E98749E16BECA0A36EBFF420+++0887603" : 0,
+    "B9A509D4F3D25560F565CB53A09A75E2140C5232+++7347420" : 0,
+    "B9A509D4F3D25560F565CB53A09A75E2140C5232+++471BD8A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D9A12D08-2851-4136-8896-9A7A030443AB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0D7533C70B3E77874DB4DC9E2131A9B1895C2C86+++6422887" : "..\/msdk_root\/linphoneproject",
+    "A01FEA133664C266A47C23F748113C9F7D7ACE2A+++933CDE3" : "..\/msdk_root\/MediaSDK",
+    "536159E03202CAC32AA66D090EBAC9005BD9A04E+++79BDB94" : "..\/msdk_root\/exosip",
+    "BEAFF94FB8B132746218097E546D09F588D2B482+++BFACEA3" : "..\/msdk_root",
+    "3528F7EB3CD1CA71730028012BED81F82E2BB93F+++8FA7E54" : "..\/YouYunIM\/WChatSDK",
+    "B9A509D4F3D25560F565CB53A09A75E2140C5232+++94CAD71" : "..\/msdk_root\/linphoneproject\/submodules\/linphone\/oRTP",
+    "B9A509D4F3D25560F565CB53A09A75E2140C5232+++94E36AF" : "..\/msdk_root\/linphoneproject\/submodules\/linphone\/mediastreamer2",
+    "375ED685F58CC5279B82679931A2D9D538CEED97+++782B0EB" : "MediaPlusDemo\/MediaPlugDemo\/Vendors\/AMRVoiceRecorder\/",
+    "7642276EBD3EA2515BE6EF8B180060014C6C03AF+++B68AFB2" : "MediaPlusSDK\/",
+    "B9A509D4F3D25560F565CB53A09A75E2140C5232+++9285DFF" : "..\/msdk_root\/linphoneproject\/submodules\/linphone",
+    "375ED685F58CC5279B82679931A2D9D538CEED97+++82DDE49" : "SocialIM\/MediaPlugDemo\/Vendors\/AMRVoiceRecorder\/",
+    "5077C32A17CE47BB31C1D6C5E715A5F823D670CD+++F47F2F4" : "MediaPlusDemo\/",
+    "154ED831FD223551E98749E16BECA0A36EBFF420+++0887603" : "SocialIM\/",
+    "B9A509D4F3D25560F565CB53A09A75E2140C5232+++7347420" : "..\/msdk_root\/linphoneproject\/submodules\/linphone\/oRTP",
+    "B9A509D4F3D25560F565CB53A09A75E2140C5232+++471BD8A" : "..\/msdk_root\/linphoneproject\/submodules\/linphone\/oRTP"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YouYunMediaDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YouYunMediaDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.hiwemeet.com:mediasdk_lib\/linphoneproject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0D7533C70B3E77874DB4DC9E2131A9B1895C2C86+++6422887"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/honeyeeb\/SocialIM.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "154ED831FD223551E98749E16BECA0A36EBFF420+++0887603"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.hiwemeet.com:chatplussdk\/wchatsdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3528F7EB3CD1CA71730028012BED81F82E2BB93F+++8FA7E54"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/shaoyuan1943\/AMRVoiceRecorder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "375ED685F58CC5279B82679931A2D9D538CEED97+++782B0EB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/shaoyuan1943\/AMRVoiceRecorder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "375ED685F58CC5279B82679931A2D9D538CEED97+++82DDE49"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.hiwemeet.com:chatplussdk\/mediaplussdkapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5077C32A17CE47BB31C1D6C5E715A5F823D670CD+++F47F2F4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.hiwemeet.com:mediasdk_lib\/exosip.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "536159E03202CAC32AA66D090EBAC9005BD9A04E+++79BDB94"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.hiwemeet.com:chatplussdk\/mediaplussdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7642276EBD3EA2515BE6EF8B180060014C6C03AF+++B68AFB2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.hiwemeet.com:mediasdk\/mediasdk_ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A01FEA133664C266A47C23F748113C9F7D7ACE2A+++933CDE3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.hiwemeet.com:mediasdk_lib\/linphone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B9A509D4F3D25560F565CB53A09A75E2140C5232+++471BD8A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.hiwemeet.com:mediasdk_lib\/mediastreamer2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B9A509D4F3D25560F565CB53A09A75E2140C5232+++7347420"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.hiwemeet.com:mediasdk_lib\/linphone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B9A509D4F3D25560F565CB53A09A75E2140C5232+++9285DFF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.hiwemeet.com:mediasdk_lib\/ortp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B9A509D4F3D25560F565CB53A09A75E2140C5232+++94CAD71"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.hiwemeet.com:mediasdk_lib\/mediastreamer2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B9A509D4F3D25560F565CB53A09A75E2140C5232+++94E36AF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.hiwemeet.com:mediasdk\/msdk_root.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BEAFF94FB8B132746218097E546D09F588D2B482+++BFACEA3"
+    }
+  ]
+}

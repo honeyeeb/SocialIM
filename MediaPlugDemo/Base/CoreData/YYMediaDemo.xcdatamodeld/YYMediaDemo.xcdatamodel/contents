@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15G31" minimumToolsVersion="Xcode 7.0">
+    <entity name="YYConversationEntity" representedClassName="YYConversationEntity" syncable="YES">
+        <attribute name="convid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="convName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="detailName" optional="YES" attributeType="String" defaultValueString=" " syncable="YES"/>
+        <attribute name="icon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="msgDirectionType" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="msgMediaType" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="msgTargetType" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="time" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="unreadNum" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="userid" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="YYMessageEntity" representedClassName="YYMessageEntity" syncable="YES">
+        <attribute name="audioPath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="audioSpanID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="conversationID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="extContent" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="fileID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fileLength" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="filePieceSize" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="isLoaded" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="msgDirection" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="msgID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="msgMediaType" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="readed" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="sended" optional="YES" attributeType="Boolean" defaultValueString="0" syncable="YES"/>
+        <attribute name="senderID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="senderName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="serverMsgID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="textContent" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="thumbnailPath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="timestamp" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+    </entity>
+    <entity name="YYUserEntity" representedClassName="YYUserEntity" syncable="YES">
+        <attribute name="birthday" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="gender" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="icon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phoneNum" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="YYConversationEntity" positionX="0" positionY="0" width="128" height="195"/>
+        <element name="YYMessageEntity" positionX="0" positionY="0" width="128" height="330"/>
+        <element name="YYUserEntity" positionX="0" positionY="0" width="128" height="150"/>
+    </elements>
+</model>
